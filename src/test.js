@@ -1,1 +1,1 @@
-alert('Hello Parcel')
+console.log('Hello Parcel')
